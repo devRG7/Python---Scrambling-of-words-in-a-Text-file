@@ -1,0 +1,2 @@
+The purpose of the program is to shuffle only the middle letters of each word in a sentence, leaving it still readable like this
+
